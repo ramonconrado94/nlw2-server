@@ -1,3 +1,7 @@
+# Introdução
+
+REST API desenvolvida em node js que será consumida pela plataforma https://nlw2-proffy.netlify.app/ 
+
 # Funcionalidades
 
 ## Conexões 
